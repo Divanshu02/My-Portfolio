@@ -126,6 +126,17 @@ li {
   z-index: 2;
   transition: all 0.7s;
 }
+.main-section > .container > .box1 > .hireMe {
+  box-shadow: 2px 4px grey;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  background-color: rgb(238, 83, 83);
+  color: white;
+  position: relative;
+  z-index: 2;
+  transition: all 0.7s;
+}
 
 .main-section > .container > .box1 > button::before {
   content: "";
